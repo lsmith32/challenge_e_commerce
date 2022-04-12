@@ -1,5 +1,5 @@
 # challenge_e_commerce
-Challenge 8: E-Commerce
+Challenge 13: E-Commerce Backend
 
 ## Purpose
 Working backend for an e-commerce site.
